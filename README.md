@@ -30,15 +30,25 @@ Este proyecto es una demostración práctica de algunos componentes de **Angular
 ## 📁 Estructura del proyecto
 
 projectmaterial/
+
 ├── src/
+
 │   ├── app/
+
 │   │   ├── app.component.ts
+
 │   │   ├── app.component.html
+
 │   │   ├── app.module.ts
+
 │   ├── assets/
+
 │   ├── styles.css
+
 ├── angular.json
+
 ├── package.json
+
 └── README.md
 
 
